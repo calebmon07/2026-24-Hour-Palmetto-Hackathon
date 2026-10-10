@@ -1,0 +1,10 @@
+Medical Chat Bot: Using Cloud Gemini APi, and SNOWFLAKE API    
+The user could feed information to the chatbot relating to the symptoms they are feeling, 
+and the chatbot would be able to narrow it down and give the user condensed information. 
+For example, if the user says they are feeling chills, body aches, has a fever, sore throat, etc. 
+The chatbot might say you have a common cold and tell them household remedies that could alleviate their condition. 
+Alternatively, for more severe cases it could advise to seek medical professionals immediately. 
+For example if they list the above symptoms but they have an extremely high blood pressure or an extremely high temperature, 
+the chatbot could advise a visit to the emergency room or local urgent care.  
+
+Client Sided Helper for College Students: Using SNOWFLAKE API
